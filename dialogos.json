@@ -1,16 +1,10 @@
 {
   "c2array": true,
-  "size": [10, 1, 2],
+  "size": [4, 1, 2],
   "data": [
-    [["Hola viajero", "Guardian"]],
-    [["Necesitamos tu ayuda", "Guardian"]],
-    [["La gema está en la cueva", "Guardian"]],
-    [["Ten cuidado con el monstruo", "Guardian"]],
-    [["Toma esta espada", "Guardian"]],
-    [["zzzzzzzzz", "Player"]],
-    [["HDHD", "Player"]],
-    [["zzzzzGSARzzzz", "Player"]],
-    [["TWWTWT", "Player"]],
-    [["zzzURURURzzzzzz", "Player"]]
+    [["¡Bienvenido al Nivel 3!", "Narrador"]],
+    [["Necesitas 200 puntos para completarlo.", "Narrador"]],
+    [["Prepárate para el desafío.", "Narrador"]],
+    [["Buena suerte, jugador.", "Narrador"]]
   ]
 }
